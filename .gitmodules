@@ -1,3 +1,6 @@
 [submodule "sys"]
 	path = sys
 	url = git://github.com/UNGLinux/UNGKernel.git
+[submodule "9base"]
+	path = 9base
+	url = https://github.com/UNGLinux/9base.git

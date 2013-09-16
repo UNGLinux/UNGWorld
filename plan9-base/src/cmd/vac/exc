@@ -1,8 +1,0 @@
-exclude a/*
-exclude b/...
-exclude c/[~a]*
-exclude d/[a]*
-exclude e/[a-z]*
-exclude f/?a*
-exclude g/*/*/b
-exclude h/.../b

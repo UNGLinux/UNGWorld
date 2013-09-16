@@ -1,7 +1,0 @@
-<$PLAN9/src/mkhdr
-
-DIRS=\
-	port\
-	$OBJTYPE\
-
-<$PLAN9/src/mkdirs

@@ -1,5 +1,0 @@
-$(LIB): $(OFILES)
-	$(AR) $(ARFLAGS) $(LIB) $(OFILES)
-	$(RANLIB) $(LIB)
-
-NUKEFILES+=$(LIB)

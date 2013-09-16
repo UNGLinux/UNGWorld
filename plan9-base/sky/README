@@ -1,2 +1,0 @@
-wget -O- http://pdos.lcs.mit.edu/~rsc/scat.tgz | gunzip | tar xf -
-cp here.sample here
