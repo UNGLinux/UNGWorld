@@ -4,3 +4,6 @@
 [submodule "9base"]
 	path = 9base
 	url = https://github.com/UNGLinux/9base.git
+[submodule "Obase"]
+	path = Obase
+	url = https://github.com/UNGLinux/Obase.git
