@@ -9,3 +9,6 @@
 	url = https://github.com/UNGLinux/Obase.git
 [sudmodule "sys"]
 	branch = 1.0-ALPHA
+[submodule "pacman"]
+	path = pacman
+	url = https://github.com/UNGLinux/pacman.git
